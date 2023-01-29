@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Pacifico&display=swap');
+
+body{
+    background-color: #FA7373;
+}
+#Hello{
+    font-family: 'Pacifico', cursive;
+    font-weight: 400;
+    font-size: 48px;
+    color: brown;
+}
+#Welcome{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 36px;
+    color: brown;
+}
+#Introduction{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 28px;
+    color: brown;
+}
+#Options{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 36px;
+    color: #A41D96;
+}
+.Green{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 32px;
+    color: #537A4C;
+}
+.Purple{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 32px;
+    color: #A41D96;
+}
+#ResponseQuestion{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 34px;
+    color: #A41D96;
+}
+#Response{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    color: #537A4C;
+}
+img{
+    display: inline;
+}
